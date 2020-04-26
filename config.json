@@ -3,9 +3,9 @@
   "username": "shashankvemuri",
   "name": "Shashank Vemuri",
   "userimg": "https://avatars1.githubusercontent.com/u/49424748?v=4",
-  "sort": "created",
+  "sort": "star",
   "order": "asc",
-  "includeFork": false,
+  "includeFork": true,
   "theme": "dark.css",
   "types": [
    "all"
